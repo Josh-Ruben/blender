@@ -1,6 +1,6 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/neka-nat-freecad-mcp-badge.png)](https://mseep.ai/app/neka-nat-freecad-mcp)
 
-# FreeCAD MCP
+# BlenderCAD MCP
 
 Control FreeCAD from Claude Desktop and other MCP clients. Create and edit models,
 run Python scripts, inspect documents, and run FEM analyses.
