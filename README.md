@@ -2,7 +2,7 @@
 
 # BlenderCAD MCP
 
-Control FreeCAD from Claude Desktop and other MCP clients. Create and edit models,
+Control BlenderCAD from Claude Desktop and other MCP clients. Create and edit models,
 run Python scripts, inspect documents, and run FEM analyses.
 
 ## Demo
